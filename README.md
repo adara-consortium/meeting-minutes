@@ -2,8 +2,8 @@
 
 ## What?
 
-This repository would serve as home for the meeting minutes from the Adara Consortium, currently up for election in the Cardano Constitutional Committee elections. This repository is provided as an example of what you could expect from us as potential CC member.
-For now, you can find a PDF file of expanded answers to the question posed in the [X Space](https://twitter.com/cryptstitution/status/1935004800762171780?s=46&t=rsloLLNphLAhp8oNE_y5Yw) hosted by [Matthew Capps](https://x.com/cryptstitution) on 2025-06-17.
+This repository would serve as home for the meeting minutes from the Adara Consortium, currently up for election in the Cardano Constitutional Committee elections. This repository is provided as an example of what you could expect from us as a potential CC member.
+For now, you can find a PDF file of expanded answers to the questions posed in the [X Space](https://twitter.com/cryptstitution/status/1935004800762171780?s=46&t=rsloLLNphLAhp8oNE_y5Yw) hosted by [Matthew Capps](https://x.com/cryptstitution) on 2025-06-17.
 
 ## Who?
 
